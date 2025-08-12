@@ -1,0 +1,4 @@
+Politique utilisée : DSTP
+Stratégie : DYNAMIC
+Type de seuil : SINGLE
+Consolidation : Activée
